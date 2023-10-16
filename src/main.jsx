@@ -5,7 +5,7 @@ import "./styles/app.scss"
 import {createContext} from "react"
 
 
-export const server = "https://todoapp-rho-sable.vercel.app/api/v1"
+export const server = "https://todoapp-backend-nu.vercel.app/api/v1"
 
 export const Context = createContext({isAuthnticated:false})
 
